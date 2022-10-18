@@ -1,5 +1,7 @@
-EvilPlanner [![Status Ventis](https://img.shields.io/badge/status-ventis-yellow.svg)](https://github.com/ForNeVeR/andivionian-status-classifier)
+EvilPlanner [![Status Zero][status-zero]][andivionian-status-classifier]
 ===========
+
+**NOTE:** the project has been merged into [fornever.me][].
 
 EvilPlanner is a small lab application.
 
@@ -42,3 +44,7 @@ script:
 ```
 $ pwsh ./docker-compose.ps1
 ```
+
+[andivionian-status-classifier]: https://github.com/ForNeVeR/andivionian-status-classifier#status-zero-
+[fornever.me]: https://github.com/ForNeVeR/fornever.me
+[status-zero]: https://img.shields.io/badge/status-zero-lightgrey.svg
